@@ -16,16 +16,16 @@ Deploy a Wazuh SIEM environment, onboard an endpoint agent, and verify alert gen
 ## Evidence
 
 ### Agent Connected
-![Agent Connected](screenshots/Agent-Active2.png)
+![Agent-Active2](screenshots/Agent-Active2.png)
 
 ### Security Events In Wazuh Dashboard
-![AppArmor Alert](screenshots/Wazuh-Dashboard.png)
+![Wazuh-Dashboard](screenshots/Wazuh-Dashboard.png)
 
 ### Individual Alert List
-![Individual Alert List](screenshots/Error-ID.png)
+![Error-ID](screenshots/Error-ID.png)
 
 ### Alert JSON Output
-![Alert JSON](screenshots/json-output.png)
+![json-output](screenshots/json-output.png)
 
 ## Key Takeaways
 - SIEM deployment and agent onboarding

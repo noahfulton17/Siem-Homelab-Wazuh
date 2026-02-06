@@ -1,0 +1,13 @@
+Wazuh Agent Enrollment Notes
+
+- Windows endpoint agent successfully enrolled to Wazuh manager
+- Agent name: windows-agent
+- Verified agent status as active in Wazuh dashboard
+
+Alert Validation:
+- Alerts validated directly from /var/ossec/logs/alerts/alerts.json
+- Rule ID observed: 60602 (Windows application error event)
+
+Purpose:
+This file documents agent onboarding and basic alert validation
+performed as part of the SIEM lab.

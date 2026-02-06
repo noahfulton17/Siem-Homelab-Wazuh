@@ -3,7 +3,7 @@
 ## Objective
 Deploy a Wazuh SIEM environment, onboard a Windows endpoint agent, and verify
 security event ingestion and alert visibility through both the dashboard and
-log-level analysis.
+log level analysis.
 
 ## Environment
 - Wazuh Manager (Linux)
